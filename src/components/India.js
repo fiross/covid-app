@@ -7,7 +7,7 @@ export default function India() {
         <div className='row'>
             <div className="col-md-12">
                 <img src="https://www.countryflags.io/IN/flat/64.png" alt="India Flag" />
-                <h3>INDIA</h3>
+                <h3>INDIA1</h3>
             </div>
             <div className="row">
               <div className="col-md-3">
