@@ -26,7 +26,7 @@ class Statedata extends React.Component {
         return (
             keys.map((itm,ky) => {
                 let districts = this.state.stateData[itm].districtData;
-                let dist_keys = Object.keys(districts);
+                //let dist_keys = Object.keys(districts);
                 console.log(districts)
                 return (
                     <div className="row">

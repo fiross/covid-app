@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import {Tenant} from './components/engineering/manageTenants'
 import {
   BrowserRouter as Router,
   Switch,

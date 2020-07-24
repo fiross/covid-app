@@ -16,7 +16,7 @@ export default function India() {
                         <Card.Title>TOTAL CASES</Card.Title>
                         <h3>12341324</h3>
                         <Card.Text >
-                            [Today: 3939]
+                            [Today: 3931]
                         </Card.Text>
                     </Card.Body>
                     </Card>
